@@ -5,6 +5,7 @@ body {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
+  font-size: 15px;
 }
 
 a {
@@ -322,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 15px;
   outline: none;
 }
 
@@ -793,7 +794,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item .details span {
   display: block;
   color: #666666;
-  font-size: 13px;
+  font-size: 14px;
   transition: transform 0.3s, opacity 0.3s;
   transform: translate3d(0, 15px, 0);
 }
